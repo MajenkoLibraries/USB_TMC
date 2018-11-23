@@ -4,7 +4,7 @@
     "license": "LICENSE.md",
     "readme": "README.md",
     "description": "chipKIT Driver for Test and Measurement Class emulation",
-    "category": "Communication",
+    "category": "Communications",
     "subcategory": "Serial",
     "maintainer": "Matt Jenkins <matt@majenko.co.uk>",
     "version": "1.0.0",
