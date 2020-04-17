@@ -1,18 +1,1 @@
-{
-    "name": "USB_TMC",
-    "provides": "USB_TMC.h",
-    "license": "LICENSE.md",
-    "readme": "README.md",
-    "description": "chipKIT Driver for Test and Measurement Class emulation",
-    "category": "Communications",
-    "subcategory": "Serial",
-    "maintainer": "Matt Jenkins <matt@majenko.co.uk>",
-    "version": "1.0.0",
-    "family": "pic32",
-    "core": "chipkit",
-    "install": {
-        "examples": "/",
-        "USB_TMC.cpp": "/",
-        "USB_TMC.h": "/"
-    }
-}
+{"name":"USB_TMC","provides":"USB_TMC.h","license":"LICENSE.md","readme":"README.md","description":"chipKIT Driver for Test and Measurement Class emulation","category":"Communication","subcategory":"Serial","maintainer":"Matt Jenkins <matt@majenko.co.uk>","version":"1.0.1","family":"pic32","core":"chipkit","install":{"examples":"\/","library.properties":"\/","src":"\/"}}
